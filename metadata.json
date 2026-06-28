@@ -1,0 +1,11 @@
+{
+  "name": "Deadline Guardian",
+  "description": "Your AI companion that refuses to let deadlines defeat you. An intelligent accountability app.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
